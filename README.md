@@ -247,4 +247,4 @@ the data structure implementations themselves.
 
 ## License
 
-MIT
+Niraj Vijaysinh Nale
